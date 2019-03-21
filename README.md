@@ -6,8 +6,7 @@
 ### Links and Resources
 * [repo](http://xyz.com)
 * [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
+* [heroku](https://radiant-citadel-21591.herokuapp.com/)
 
 #### Documentation
 * [swagger](http://xyz.com) (API assignments only)
