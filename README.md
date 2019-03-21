@@ -5,7 +5,7 @@
 
 ### Links and Resources
 * [repo](http://xyz.com)
-* [travis](http://xyz.com)
+* travis [![Build Status](https://www.travis-ci.com/dukes-js-401/lab04-buffers.svg?branch=master)](https://www.travis-ci.com/dukes-js-401/lab04-buffers)
 * [heroku](https://radiant-citadel-21591.herokuapp.com/)
 
 #### Documentation
