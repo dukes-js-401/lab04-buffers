@@ -28,11 +28,10 @@ Usage Notes or examples
 * `MONGODB_URI` - URL to the running mongo instance/db
 
 #### Running the app
-* `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
+* run `node codeWriter.js`
+  * Creates a file in the `files` dir called `loop.js`, and writes a function to the file from a buffer of ASCII.
+* run `node loop.js`
+  * Runs the function on `loop.js`, prints 3 names to the console.
   
 #### Tests
 * How do you run tests?
