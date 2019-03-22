@@ -5,8 +5,30 @@ const buffer = Buffer([39,117,115,101,32,115,116,114,105,99,116,39,59,108,101,11
 
 
 fs.writeFile('./files/loop.js', buffer, (err) => {
-  if (!err) {    
+  if (!err) {
     console.log('file created');
   }
 });
 
+//************************************ PART 2 ****************************************/
+
+const os = require('os');
+console.log(os.endianness());  //LE
+
+// fs.readFile('./files/pair-programming.txt', (err, data) => {
+//   if (!err) {
+//     let pairBuff = Buffer.from(data);
+//     let workingBuff = [];
+//     pairBuff.forEach(ch => {
+//       workingBuff.push(ch);
+//       for (let i = 0; i < 20; i++) {
+//         console.log(workingBuff[i]);
+//       }
+
+//     });
+
+//   }
+
+// });
+
+// workingBuff.unshift(60, 97, 114, 116, 105, 99, 108, 101, 62);

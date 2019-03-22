@@ -4,27 +4,12 @@
 ### Author: Gregory Dukes
 
 ### Links and Resources
-* [repo](http://xyz.com)
+* [PR](https://github.com/dukes-js-401/lab04-buffers/pull/1)
 * travis [![Build Status](https://www.travis-ci.com/dukes-js-401/lab04-buffers.svg?branch=master)](https://www.travis-ci.com/dukes-js-401/lab04-buffers)
 * [heroku](https://radiant-citadel-21591.herokuapp.com/)
 
 #### Documentation
 * [jsdoc](http://xyz.com) (All assignments)
-
-### Modules
-#### `modulename.js`
-##### Exported Values and Methods
-
-###### `foo(thing) -> string`
-Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples
-
-### Setup
-#### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
 
 #### Running the app
 * run `node codeWriter.js`
