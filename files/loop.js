@@ -1,0 +1,1 @@
+'use strict';let a=()=>{let n=['Gregory','Darcy','Rowan'];n.forEach(e =>{ console.log(e);});};a();
