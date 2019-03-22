@@ -1,7 +1,7 @@
 
-## Project Name
+## Lab04 Buffers
 
-### Author: Student/Group Name
+### Author: Gregory Dukes
 
 ### Links and Resources
 * [repo](http://xyz.com)
@@ -9,7 +9,6 @@
 * [heroku](https://radiant-citadel-21591.herokuapp.com/)
 
 #### Documentation
-* [swagger](http://xyz.com) (API assignments only)
 * [jsdoc](http://xyz.com) (All assignments)
 
 ### Modules
