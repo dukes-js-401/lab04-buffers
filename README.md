@@ -1,38 +1,21 @@
 
-## Project Name
+## Lab04 Buffers
 
-### Author: Student/Group Name
+### Author: Gregory Dukes
 
 ### Links and Resources
-* [repo](http://xyz.com)
+* [PR](https://github.com/dukes-js-401/lab04-buffers/pull/1)
 * travis [![Build Status](https://www.travis-ci.com/dukes-js-401/lab04-buffers.svg?branch=master)](https://www.travis-ci.com/dukes-js-401/lab04-buffers)
 * [heroku](https://radiant-citadel-21591.herokuapp.com/)
 
 #### Documentation
-* [swagger](http://xyz.com) (API assignments only)
 * [jsdoc](http://xyz.com) (All assignments)
 
-### Modules
-#### `modulename.js`
-##### Exported Values and Methods
-
-###### `foo(thing) -> string`
-Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples
-
-### Setup
-#### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
-
 #### Running the app
-* `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
+* run `node codeWriter.js`
+  * Creates a file in the `files` dir called `loop.js`, and writes a function to the file from a buffer of ASCII.
+* run `node loop.js`
+  * Runs the function on `loop.js`, prints 3 names to the console.
   
 #### Tests
 * How do you run tests?
